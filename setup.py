@@ -17,6 +17,6 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/Ultratemporary/goodtohave/issues"
     },
     license='MIT',
-    packages=['goodtohave'], #ska vara samma som name
+    packages=['stefansfunktioner'], #ska vara samma som name
     install_requires=['requests']
 )
