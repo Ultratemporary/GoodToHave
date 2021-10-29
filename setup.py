@@ -6,7 +6,7 @@ long_description = "na"
 
 setuptools.setup(
     name='stefansfunktioner', #samma som python foldern
-    version='0.0.1',
+    version='0.0.2',
     author='Stefan Holmberg',
     author_email='stefan.holmberg@systementor.se',
     description='Good to have things',

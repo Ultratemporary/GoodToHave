@@ -11,6 +11,9 @@ def getInputBetween(startval: int,endval: int)->int:
 def getBestPlayer():
     return "Mats sundin"
 
+def getBestUVRugbyTeam():
+    return "Bromma Caviar"
+
 if __name__ == "__main__": ## = bara när det är den fil som skickas till python.exe
 
     x = getInputBetween # DÅ KOMMER DETTA OCKSÅ KÖRAS NÄR MODULEN HÄMTAS!!!!!
